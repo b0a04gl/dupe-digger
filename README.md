@@ -22,12 +22,12 @@ Now, we're cooking up a grand plan for DupeDigger, and it's happening in stages:
    - You can tell DupeDigger what size of files to look for, and it's going to stick to the mission.
    - Don't want to see those sneaky hidden files? No worries, just turn on the "No Hidden" mode!
 
-2. **Stage Two: Scaling Up (In Progress)**
+2. **Stage Two: Scaling Up (Done)**
 
    - Here's where things get interesting. We're adding more threads and letting DupeDigger multitask like a pro.
    - It's like going from one detective to a whole team of sleuths. Faster, smarter, and ready for bigger gigs.
 
-3. **Stage Three: Super Sleuth (Coming Soon)**
+3. **Stage Three: Super Sleuth (Done)**
 
    - In the final stage, DupeDigger's going to be like Sherlock Holmes, but for files. Expect smarter moves, speedier results, and a friendlier user experience.
    - We're tossing in extra features to keep your files organized and your digital life as smooth as a double shot of espresso.
@@ -88,8 +88,4 @@ DupeDigger wouldn't be possible without the awesome Rust community and the libra
 
 ---
 
-Stay tuned for some thrills and chills as DupeDigger goes from being a one-man show to a whole crew of digital detectives, solving your file mysteries and making your tech life a breeze!
-
----
-
-In this version, we've got a serial program that helps you deal with smaller tasks. Stay tuned for future updates as we take it to the next level and make it more concurrent to handle larger challenges!
+Yeah homies, we released final piece of dupe-digger-v2 now.
