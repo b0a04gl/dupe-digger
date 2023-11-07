@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="DupeDigger Logo">
+  <img src="image-1.png" alt="DupeDigger Logo">
 </p>
 
 # DupeDigger - The Duplicate File Detective! 🕵️‍♀️
