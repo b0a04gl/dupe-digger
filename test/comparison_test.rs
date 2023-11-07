@@ -1,3 +1,7 @@
+
+mod comparison;
+use comparison::process_files_for_comparison;
+
 #[cfg(test)]
 mod tests {
     use super::*;

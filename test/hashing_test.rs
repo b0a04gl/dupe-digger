@@ -1,3 +1,7 @@
+mod hashing;
+use hashing::process_files_for_hashing;
+
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -23,7 +27,7 @@ mod tests {
         let minsize: u64 = 0;
         let maxsize: u64 = u64::MAX;
         let verbose: bool = false;
-        let roots: Vec<PathBuf> = vec![PathBuf::from("
+        let roots: Vec<PathBuf> = vec![PathBuf::from("/test_root")];
 
         
         process_files_for_hashing(&tx, minsize, maxsize, verbose, roots);

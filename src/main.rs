@@ -5,7 +5,7 @@ use std::sync::Mutex;
 
 mod hashing;
 mod comparison;
-mod printing;
+mod results;
 
 use hashing::process_files_for_hashing;
 use comparison::process_files_for_comparison;
@@ -31,5 +31,8 @@ fn main() {
         process_files_for_hashing(&hash_tx, minsize, maxsize, verbose, roots_for_hash);
     });
 
+    thread::spawn(move || {
+        process_files_for_comparison(&compare_tx, verbose, singleline, nul, &roots_for_compare);
+    });
     
 }
