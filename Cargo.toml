@@ -1,0 +1,18 @@
+[package]
+name = "dupe_digger"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+structopt = "0.3"
+fnv = "1.0"
+blake3 = "0.1"
+walkdir = "2.3"
+regex = "1.4"
+glob = "0.3"
+unbytify = "0.6"
+scoped_threadpool = "2.2"
+num_cpus = "1.14"
+
+[lib]
+path = "src/lib.rs"
