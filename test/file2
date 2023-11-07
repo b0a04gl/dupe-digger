@@ -1,0 +1,31 @@
+Hours after a tech glitch affected scores of its users on November 6, Zerodha issued a statement noting that 20 percent of its client base faced issues that were linked to one of the independent “silos".
+
+“At the market opening today, 20 percent of our clients first experienced issues checking the status of their orders and then with placing orders," the discount broker said.
+
+“This issue was limited to one of the many independent ‘silos’ which are designed to operate independently, which is why 80 percent of the clients were unaffected," it clarified. 
+
+Also Read: 'Zerodha's valuation is way higher than reality': CEO Nithin Kamath on slow growth in FY23
+
+The company said it will install “additional checks" to ensure that the issue does not arise again. The root cause behind the glitch is still being investigated, Zerodha noted, adding that a root cause analysis (RCA) of the issue would be shared soon.
+
+"We sincerely apologise", Zerodha said, while confirming that the trading and DP charges for the day have been waived off.
+
+Sharing a timeline of the tech glitch, the company said that at 9:15 am, order and position status updates were affected, “but order placement was unaffected".
+
+Also Read: Groww overtakes Zerodha as top brokerage with 6.63 million active investors, Upstox distant fourth
+
+At 10 am, the processes that handle streaming order and position updates from the platform's order management system (OMS) “slowed down inexplicably", it said. 
+
+“These processes have failovers that mirror them 1:1, but that mirrors also exhibited the same behaviour. We were unable to ascertain the root cause at this point," it added. 
+
+The company claimed that it subsequently deployed an ad-hoc solution to re-sync the slowed down order and position stream data, but the “same behaviour caused this to slow down significantly".
+
+Also Read: Zerodha's Nikhil Kamath on rising EMIs, house prices, and what lies ahead…
+
+At 10:38 am, Zerodha said it stopped order placement for the affected set of users on the silo. The move was aimed at bringing the slowed streams “under control".
+
+At 11:22 am, the orders and positions were synced on Kite, making the updated orders and positions data available to clients, it added.
+
+After ensuring the stability of the streams, the company at 11:38 am resumed allowing clients to exit their positions and orders, the statement said. However, fresh orders were still blocked at time.
+
+All restrictions on order placement were eventually removed at 12:09 pm, Zerodha further noted.
