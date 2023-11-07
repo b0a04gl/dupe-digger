@@ -34,5 +34,10 @@ fn main() {
     thread::spawn(move || {
         process_files_for_comparison(&compare_tx, verbose, singleline, nul, &roots_for_compare);
     });
+  
+
+    
+    collect_and_print_results(&hash_rx, &compare_rx, grandtotal);
+
     
 }
