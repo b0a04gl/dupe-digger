@@ -43,13 +43,13 @@ Now, we're cooking up a grand plan for DupeDigger, and it's happening in stages:
 1. Grab this repo:
 
    ```shell
-   git clone https://github.com/yourusername/DupeDigger.git
+   git clone https://github.com/b0a04gl/dupe-digger.git
    ```
 
 2. Find your way to the project folder:
 
    ```shell
-   cd DupeDigger
+   cd dupe-digger
    ```
 
 3. Bake your investigative tool:
