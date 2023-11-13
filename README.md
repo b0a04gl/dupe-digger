@@ -4,7 +4,7 @@
 
 # DupeDigger - The Duplicate File Detective! 🕵️‍♀️
 
-Hey there, mate! Welcome to DupeDigger - the Duplicate File Detective! This fella here's your go-to buddy when you've got a file mess so big, you'd need a map to find your way out. Let's dive into the madness and sort things out, shall we?
+Hey there, mate! Welcome to DupeDigger - the Duplicate File Detective! This fella here's your go-to buddy when you've got a file mess so big, you'd need a map to find your way out. 
 
 ## The Story
 
@@ -20,7 +20,7 @@ Now, we're cooking up a grand plan for DupeDigger, and it's happening in stages:
 
    - Our first version works on a single thread. It's like the "Once Upon a Time" version.
    - You can tell DupeDigger what size of files to look for, and it's going to stick to the mission.
-   - Don't want to see those sneaky hidden files? No worries, just turn on the "No Hidden" mode!
+
 
 2. **Stage Two: Scaling Up (Done)**
 
@@ -85,7 +85,3 @@ This project is open-source, and we're keeping it legit with the MIT License. Al
 ## Credits
 
 DupeDigger wouldn't be possible without the awesome Rust community and the libraries and tools that made it all happen. It's a teamwork thing, and we love it!
-
----
-
-Yeah homies, we released final piece of dupe-digger-v2 now.
